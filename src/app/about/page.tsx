@@ -32,15 +32,15 @@ export default function AboutSection() {
             </h3>
 
             <p className="text-gray-300 mb-4">
-              I'm a passionate Fullstack Developer and Web Designer with
+              I&#39;m a passionate Fullstack Developer and Web Designer with
               experience in building dynamic, user-friendly websites. I have a solid
               understanding of front-end and back-end technologies, including HTML, CSS, TypeScript, Node.js, and Next.js.
               My goal is to create seamless, responsive web experiences that solve real-world problems.
             </p>
 
             <p className="text-gray-300 mb-8">
-              I'm a student actively learning web development,
-              constantly improving my skills in full-stack development and web design..
+              I&#39;m a student actively learning web development,
+              constantly improving my skills in full-stack development and web design.
             </p>
 
             <button className="px-6 py-3 rounded-full bg-orange-500 hover:bg-orange-600 
